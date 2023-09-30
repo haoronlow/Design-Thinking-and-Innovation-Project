@@ -1,5 +1,4 @@
 # Design-Thinking-and-Innovation-Project
-The COVID-19 pandemic altered the dining scene, initially allowing only takeaways and deliveries. As dining in resumed with safety measures, concerns arose about crowded hawker centers. One issue identified was the proximity of tray return and sink areas, potentially facilitating virus spread through unmasked sink users.
 
 Due to the COVID-19 pandemic, the eatery scene was completed changed. Initially, all dine-in at hawker centres and other eateries were not allowed; only takeaways and deliveries were permitted. As the regulations eased off, dining in was now allowed, but with strict safe distancing measures.
 
